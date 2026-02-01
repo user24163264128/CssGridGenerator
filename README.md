@@ -87,7 +87,3 @@ See `src/types/grid.ts` for the full type definitions:
 | `npm run build` | Build for production |
 | `npm run preview` | Preview production build |
 | `npm run lint` | Run ESLint |
-
-## License
-
-MIT (or your preferred license).
